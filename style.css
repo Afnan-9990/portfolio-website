@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+              
+}
+h1{
+    font-size: 50px
+ }
+.name-highlight{
+    color:darkorchid;
+
+}
+h2{
+    font-size: 40px;
+}
+.highlight{
+    color:palevioletred;
+}
+h3{
+    font-size: 25px; 
+}
+ .country{
+     color: green;
+ } 
+ .half-width{
+     width: 40%;
+     float:left;
+     margin-left: 5%;
+     padding-left: 2%;
+ }
+ .half-width img{
+     width: 100%;
+ }
